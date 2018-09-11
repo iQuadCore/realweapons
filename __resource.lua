@@ -1,1 +1,1 @@
-client_scripts{'config.lua','main.lua'}
+client_scripts{'config.lua','main.lua'} 
